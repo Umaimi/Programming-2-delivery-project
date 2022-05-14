@@ -38,12 +38,12 @@ import javax.swing.JTextField;
 import javax.swing.UIManager;
 
 /**
- *
+ * My friend also helped me out for this part
  * @author User
  */
 public class AddStaff extends JFrame implements ActionListener {
 
-    private static final long serialVersionUID = 1L;
+//    private static final long serialVersionUID = 1L; idk what this is for
     private MainWindow mw;
     private JTextField fName = new JTextField();
     private JTextField lName = new JTextField();
