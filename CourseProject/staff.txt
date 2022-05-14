@@ -1,0 +1,3 @@
+Alex,Zhang,30,Male,Chicago,Receptionist,39.0
+Reggie,Huang,35,Female,Sweden,Typist,30.0
+Bob,Bobby,22,Male,Japan,Gamer,40.0

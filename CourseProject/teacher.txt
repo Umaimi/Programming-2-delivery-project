@@ -1,0 +1,7 @@
+PartTime,Klaus,Winzon,28,Male,Chicago,Data Structures,Master,20.0
+FullTime,Bin,Zhang,30,Female,LA,Java,PHD
+FullTime,Grace,Li,25,Female,China,Networking,Bachelor
+PartTime,Kaira,Goel,29,Female,India,Science,PHD,45.0
+FullTime,Deepak,Goel,32,Male,India,Maths,MASTER
+FullTime,Amita,Goel,32,Female,India,Hindi,PHD
+Dean,Peter,Stock,40,Female,LA,Java,PHD
